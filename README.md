@@ -2,6 +2,6 @@
 
 sakara
 blooms
-are falling
-gracefully.
-
+are dancing
+gracefully 
+in the wind
