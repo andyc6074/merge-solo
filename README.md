@@ -1,6 +1,6 @@
 # merge-solo
 
-sakara
+beautiful sakara
 blooms
 are falling
 gracefully.
